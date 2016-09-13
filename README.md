@@ -1,7 +1,8 @@
 仿写京客隆超市客户端
-
+====================
 
 效果截图:
+--------
 
 ![image](https://github.com/xiayuanquan/XYQ_JKLClientDemo/blob/master/XYQ_JKLClientDemo/screenshots/start.png)
 
